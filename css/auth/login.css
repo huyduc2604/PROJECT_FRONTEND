@@ -1,0 +1,37 @@
+.container {
+    background: #fff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 500px;
+}
+
+
+button{
+    width: 100%;
+}
+p {
+    text-align: left;
+    font-size: 14px;
+    margin-top: 15px;
+  }
+  
+p a {
+    color: #007bff;      /*mau*/
+    text-decoration: none; /*bo gach duoi*/
+    transition: color 0.3s ease; /*hieu ung chuyen mau*/
+  }
+  
+p a:hover {
+    text-decoration: none;
+  }
+.forgot-password{
+    float: right;
+    font-size: 14px;
+    color: #007bff;
+    text-decoration: none;
+}
+.checkbox{
+    text-align: center;
+}
